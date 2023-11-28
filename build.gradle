@@ -1,0 +1,13 @@
+subprojects {
+    apply plugin: 'java'
+    //sourceCompatibility = 19
+    //targetCompatibility = 19
+
+    repositories {
+        mavenCentral()
+        maven { url 'https://repo.spring.io/milestone' }
+        maven { url 'https://repo.spring.io/snapshot' }
+    }
+}
+
+ //Cuando haces referencia a un subproyecto desde otro, necesitas usar el camino relativo del proyecto padre
