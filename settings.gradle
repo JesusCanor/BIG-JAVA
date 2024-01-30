@@ -2,6 +2,7 @@ rootProject.name = 'BIG'
 
 include 'Patterns', 'Architectures', 'Basics'
 include 'Patterns:strategyPattern'
+include 'Patterns:factoryMethod'
 //En un proyecto graddle, sólo hay que tener un archivo settings.gradl, en el directorio raíz
 //del proyecto principal
 include 'Basics:variables'

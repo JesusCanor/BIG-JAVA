@@ -1,3 +1,5 @@
+A diferencia del factory method, este patrón va a definir cómo se hace lo que hay que hacer.
+
 Este proyecto se ha extraido de
 https://www.youtube.com/watch?v=ZBVy85mFZIE&t=1061s
 

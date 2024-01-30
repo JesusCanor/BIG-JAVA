@@ -1,4 +1,4 @@
-package org.example;
+package com.example.basics.variables;
 
 public class InicializacionVariables {
 

@@ -3,4 +3,5 @@ group = 'com.example.patterns'
 
 dependencies {
     implementation project(':Patterns:strategyPattern')
+    implementation project(':Patterns:factoryMethod')
 }
